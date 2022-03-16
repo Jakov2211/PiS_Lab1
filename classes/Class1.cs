@@ -6,5 +6,6 @@ namespace Lab1.classes
 {
     class Class1
     {
+        // novi konflikt
     }
 }
